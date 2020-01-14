@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/yenz0redd/git/chat-socket/socket-chat-server/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

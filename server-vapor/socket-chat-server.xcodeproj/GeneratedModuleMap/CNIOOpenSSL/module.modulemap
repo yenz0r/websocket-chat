@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/yenz0redd/git/chat-socket/socket-chat-server/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
